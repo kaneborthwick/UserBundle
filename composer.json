@@ -8,6 +8,10 @@
             "email": "kane.borthwick@hotmail.com"
         }
     ],
+    "keywords": [
+        "expressive",
+        "zend-expressive"
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
