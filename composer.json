@@ -16,8 +16,8 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.1",
-        "towersystems/resource-bundle": "^1.0",
-        "towersystems/user": "^1.0",
+        "towersystems/resource-bundle": "dev-master@dev",
+        "towersystems/user": "dev-master@dev",
         "firebase/php-jwt": "^5.0",
         "zendframework/zend-expressive-authentication-session": "^1.0",
         "zendframework/zend-expressive-session-ext": "^1.2",
